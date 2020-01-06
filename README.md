@@ -15,4 +15,4 @@ other indicates failure. Both LEDs are on for three seconds.
 
 *The project was tested on the board that was created in the 
 School of Electrical Engineering, University of Belgrade
-by the staff of the Electronics department*
+by the staff of the Electronics department.*

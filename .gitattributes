@@ -1,1 +1,4 @@
-
+.settings/*linguist-vendored
+Debug/*linguist-vendored
+targetConfigs/*linguist-vendored
+Doxygen/Electric-Lock-Doxygen.pdf linguist-documentation=true

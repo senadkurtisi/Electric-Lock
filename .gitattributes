@@ -2,3 +2,7 @@
 Debug/* linguist-vendored
 targetConfigs/* linguist-vendored
 Doxygen/Electric-Lock-Doxygen.pdf linguist-documentation=true
+lnk_msp430f5438a.cmd* linguist-vendored
+.ccsproject* linguist-vendored
+.cproject* linguist-vendored
+.project* linguist-vendored
